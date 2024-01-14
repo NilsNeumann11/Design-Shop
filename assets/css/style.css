@@ -112,3 +112,7 @@ h1 {
 .footer-item span {
 	font-weight: bolder;
 }
+
+.footer-item:last-child {
+	color: #848484;
+}
